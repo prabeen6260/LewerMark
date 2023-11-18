@@ -1,0 +1,23 @@
+.textedit{
+    background: transparent;
+    position: absolute;
+    bottom: 0;
+    top: 80%;
+
+}h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0)
+
+}
+a{
+    transition: color 1s ease-in-out;
+    color: rgb(18, 155, 218);
+    font-size: 50px;
+}
+#bodytext{
+    font-size: 28px;
+    color: antiquewhite;
+}
