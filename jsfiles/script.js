@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Clear existing interval before starting a new one
         clearInterval(intervalId);
         // Set an interval to transition images automatically
-        intervalId = setInterval(nextImage, 3000);
+        intervalId = setInterval(nextImage, 2500);
     }
 
     // Set an interval to transition images automatically
