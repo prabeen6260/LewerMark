@@ -22,7 +22,7 @@ img {
     top: 0;
     left: 0;
     width: 100vw;
-    height: 88vh;
+    height: 85vh;
     opacity: 0; /* Set initial opacity to 0 for all images */
     transition: opacity 1s ease-in-out;
 }
