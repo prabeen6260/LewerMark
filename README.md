@@ -1,4 +1,4 @@
 # LewerMark-travel-advertisement
 
 GOTO:
-prabeen6260.github.io/lewermark
+https://prabeen6260.github.io/lewermark
